@@ -1,1 +1,6 @@
 1) https://www.rocketboards.org/foswiki/view/Documentation/GSRDCompileHardwareDesign141ArrowSoCKitEdition
+
+2) https://www.rocketboards.org/foswiki/view/Documentation/GSRD141Preloader
+
+3) https://www.rocketboards.org/foswiki/Documentation/EmbeddedLinuxBeginnerSGuide
+
