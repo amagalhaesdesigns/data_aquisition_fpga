@@ -4,3 +4,4 @@
 
 3) https://www.rocketboards.org/foswiki/Documentation/EmbeddedLinuxBeginnerSGuide
 
+4) https://www.rocketboards.org/foswiki/Documentation/GHRDMakeUtilities151ArrowSoCKitEdition
