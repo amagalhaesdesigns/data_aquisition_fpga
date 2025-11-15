@@ -5,3 +5,5 @@
 3) https://www.rocketboards.org/foswiki/Documentation/EmbeddedLinuxBeginnerSGuide
 
 4) https://www.rocketboards.org/foswiki/Documentation/GHRDMakeUtilities151ArrowSoCKitEdition
+
+5) https://github.com/robseb/rsyocto
